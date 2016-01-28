@@ -1,2 +1,2 @@
-calc.exe
-mspaint.exe
+start calc.exe
+start mspaint.exe
